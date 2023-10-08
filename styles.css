@@ -112,6 +112,7 @@ button:hover:not(.live) {
         font-size: 0.8rem;
     }
     .image{
+        height: 250px;
         transform: perspective(1000px) rotateY(0deg);
         transition: all 0.5s ease;
     }
